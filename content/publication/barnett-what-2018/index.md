@@ -5,9 +5,8 @@ date: '2018-01-01'
 draft: true
 publishDate: '2020-08-24T14:08:09.806281Z'
 authors:
-- Samuel A. Barnett
-publication_types:
-- 0
+- admin
+publication_types: ["7"]
 abstract: 'Decision theory has had a long-standing history in the behavioural and
   social sciences as a tool for constructing good approximations of human behaviour.
   Yet as artificially intelligent systems (AIs) grow in intellectual capacity and eventually
