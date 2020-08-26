@@ -6,7 +6,7 @@ publishDate: '2020-08-24T14:08:09.731398Z'
 authors:
 - Samuel A. Barnett
 publication_types:
-- 7
+- 0
 abstract: 'Generative adversarial networks (GANs) are a novel approach to generative
   modelling, a task whose goal it is to learn a distribution of real data points.
   They have often proved difficult to train: GANs are unlike many techniques in machine
@@ -18,10 +18,9 @@ abstract: 'Generative adversarial networks (GANs) are a novel approach to genera
   identifying the problems when training GANs, and how topological and game-theoretic
   perspectives of GANs have contributed to our understanding and improved our techniques
   in recent years.'
-featured: false
-publication: ''
+featured: true
+publication: 'MMathPhil Mathematics Dissertation'
 tags:
 - '"Computer Science - Machine Learning"'
 - '"Statistics - Machine Learning"'
-url_pdf: http://arxiv.org/abs/1806.11382
 ---
